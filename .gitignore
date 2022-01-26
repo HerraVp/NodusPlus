@@ -1,0 +1,5 @@
+# Intellij
+.gradle
+build
+.idea
+run
