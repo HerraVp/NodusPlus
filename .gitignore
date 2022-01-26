@@ -2,4 +2,7 @@
 .gradle
 build
 .idea
-run
+run/logs
+run/saves
+run/screenshots
+run/options.txt
